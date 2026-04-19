@@ -30,7 +30,7 @@ from scipy import sparse
 # ---------------------------------------------------------------------------
 # Physical parameters
 # ---------------------------------------------------------------------------
-L        = 18           # chain length
+L        = 8           # chain length
 eta      = 1.5          # XXZ anisotropy parameter
 Jxy      = 1.0          # XY coupling (energy scale)
 Jzz      = math.cosh(eta)  # ZZ coupling fixed by η
