@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (optional: remove these lines if you want to track plots)
+*.pdf
+*.png
